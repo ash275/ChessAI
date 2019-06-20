@@ -7,7 +7,7 @@ And now you can execute the game using the command :
 
 ```./a.out```
 
-# GLChess
+# ChessAI
 A Chess program using OpenGl written entirely in C++
 *(Python has been used to write large amounts of c++ openGL commands which will be addressed later)*
 
